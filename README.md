@@ -4,7 +4,7 @@
 A empresa fictícia DINDIN, quer lançar uma plataforma de
 conteúdo sobre Educação Financeira. 
 
-Projeto feito no primeiro desafio do Gama XP#47 da stack Hacker.
+Projeto feito no primeiro desafio do Gama XP#50 da stack Hacker.
 
 
 ## Referência
@@ -16,7 +16,7 @@ Projeto feito no primeiro desafio do Gama XP#47 da stack Hacker.
 
 ## Demonstração
 
-https://bruunogoncalves.github.io/Dindin-Gama-Academy/inicio.html
+
 
 
 ## Screenshots
@@ -28,6 +28,5 @@ https://bruunogoncalves.github.io/Dindin-Gama-Academy/inicio.html
 ## Autores
 
 - [@BruunoGoncalves](https://github.com/BruunoGoncalves)
-- [@beatrizpicirillo](https://github.com/beatrizpicirillo)
-- [@EduardoPezzi01](https://github.com/EduardoPezzi01)
-
+- []()
+- []()
