@@ -16,7 +16,7 @@ Projeto feito no primeiro desafio do Gama XP#50 da stack Hacker.
 
 ## Demonstração
 
-
+https://bruunogoncalves.github.io/dindin-xp50/inicio.html
 
 
 ## Screenshots
@@ -28,5 +28,6 @@ Projeto feito no primeiro desafio do Gama XP#50 da stack Hacker.
 ## Autores
 
 - [@BruunoGoncalves](https://github.com/BruunoGoncalves)
-- []()
-- []()
+- [@18carica](https://github.com/18carica)
+- [@Du-Previatti](https://github.com/Du-Previatti)
+- [@fabiopaixaoss](https://github.com/fabiopaixaoss)
